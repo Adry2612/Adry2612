@@ -31,7 +31,7 @@ When I'm not coding, you can find me at the gym, reading or listening some music
 	        place: 'IES José Rodrigo Botet',
 	        degree: 'Microcomputer systems and networks',
 		   finishYear: 2018
-        }
+        	}
 	 ];
      let work = { place: 'Geotao Group', since: 2021 }
      let hobbies = [ 'Sport', 'Books', 'Music', 'Life' ]
