@@ -20,9 +20,9 @@ When I'm not coding, you can find me at the gym, reading or listening some music
  ```javascript
  const whoIAm = () => {
      const name = 'Adrián Vidal López';
-     const age = 23;
+     let age = 23;
      let currentLocation = 'Valencia, Spain'
-     const education = [
+     let education = [
 	     {
 	        place: 'IES José Rodrigo Botet',
 	        degree: 'Web App Development',
@@ -41,8 +41,8 @@ When I'm not coding, you can find me at the gym, reading or listening some music
 const currentlyDoing = () => {
 	actuallyLearning: 'Next.Js',
     reading: { 
-	    name: 'Por si las voces vuelven', 
-	    author: 'Ángel Martín' 
+	    name: 'The Fellowship of the Ring', 
+	    author: 'J.R.R Tolkien' 
 	}
  }
 
