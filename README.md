@@ -34,7 +34,10 @@ When I'm not coding, you can find me at the gym, reading or listening some music
 		   finishYear: 2018
         	}
 	 ];
-     let work = { place: 'Geotao Group', since: 2021 }
+     let work = [
+     	{ place: 'Allfunds', since: august 2022 },
+     	{ place: 'Geotao Group', from: february 2021, since: august 2022 }
+	],
      let hobbies = [ 'Sport', 'Books', 'Music', 'Life' ]
 }
 
